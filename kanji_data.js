@@ -605,5 +605,4 @@ const kanjiData = [
   { kanji:"割合利用", reading:"わりあいりよう", meaning:"ratio utilization", hint:"Using percentages", tags:["N3","soumatome"] }
 
 ];
-
 window.kanjiData = kanjiData;
