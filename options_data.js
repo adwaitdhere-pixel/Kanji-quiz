@@ -333,5 +333,4 @@ const optionsPool = [
 
 
 ];
-
 window.optionsPool = optionsPool;
